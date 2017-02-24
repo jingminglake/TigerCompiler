@@ -6,22 +6,28 @@ The link is http://staff.ustc.edu.cn/~bjhua/courses/compiler/2014/
 
 The part I have finished:
 
-Lab 1: lexer and parser.
-Design and implement a front-end (a lexer and a parser) for Tiger.
+1. Lexer and Parser.
 
-Lab 2: abstract syntax trees and elaborator.
-Design and implement an abstract syntax tree and build an elaborator.
+Designed and implemented a front-end (a lexer and a parser) for Tiger.
 
-Lab 3: code generator.
-Design and implement several code generators: a C code generator.
+2. Abstract Syntax Trees and Elaborator.
 
-Lab 4: garbage collector.
+Designed and implemented an abstract syntax tree and build an elaborator.
+
+3. Code Generator.
+
+Designed and implemented a C code generator.
+
+4. Garbage Collector.
+
 Build a garbage collector and link it into Tiger.
 
 The part I have not finished:
 
-Lab 5: Optimizations.
+5. Optimizations.
+
 Add optimizations to Tiger to enable it generator more efficient target code.
 
 Lab 6: Register allocator.
-Write a register allocator for Tiger so that  Tiger compiler will generate efficient production-quality native code.
+
+Write a register allocator for Tiger so that Tiger compiler will generate efficient production-quality native code.
