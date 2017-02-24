@@ -1,8 +1,6 @@
 # Tiger Compiler
 
-This is Compiler Engineering Course Lab.
-
-The link is http://staff.ustc.edu.cn/~bjhua/courses/compiler/2014/
+This is a [Compiler Engineering Course Project](http://staff.ustc.edu.cn/~bjhua/courses/compiler/2014/).
 
 The part I have finished:
 
